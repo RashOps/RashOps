@@ -58,7 +58,7 @@ Quand je ne suis pas en train d'entraîner un modèle d'IA ou de débugger du Re
 
 ### 📫 Rejoindre ma Squad
 
-<a href="(https://www.linkedin.com/in/rayhan-seh-fred-touboui/)" target="_blank">
+<a href="https://www.linkedin.com/in/rayhan-seh-fred-touboui/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
