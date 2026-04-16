@@ -137,7 +137,8 @@ operator = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RashOps&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-seven-kappa-93.vercel.app/api?username=RashOps&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-stats-seven-kappa-93.vercel.app/api/top-langs/?username=RashOps&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
